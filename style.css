@@ -66,4 +66,14 @@ svg {
     .link_container {
         background-color: rgba(255, 255, 255, 0.152);
     }
+    .link_container {
+        background-color: rgba(255, 255, 255, 0.152);
+        height: 60px;
+        margin-top: 10px;
+        border-radius: 19px;
+        position: relative;
+        text-align: left;
+        width: 300px;
+        margin-top: 20px;
+    }
 }
